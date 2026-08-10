@@ -5,6 +5,12 @@
       "version": "4.99.4",
       "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/v4.99.4/Xuper_4.99.4.apk",
       "archivo": "Xuper_4.99.4.apk"
+    },
+    {
+      "nombre": "YTP",
+      "version": "1",
+      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/ytp-1/ytp.apk",
+      "archivo": "ytp.apk"
     }
   ]
 }
