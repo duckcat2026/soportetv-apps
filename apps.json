@@ -15,6 +15,23 @@
       "paquete": "io.gh.reisxd.tizentube.fortaleza",
       "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/ytp-1/ytp.apk",
       "archivo": "ytp.apk"
+    },
+    {
+      "nombre": "GeeSports",
+      "version": "3.8",
+      "versionCode": 11,
+      "paquete": "com.live.geesports",
+      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/geesports-3.8/GeeSports_%28V3.8%29.apk",
+      "archivo": "GeeSports_(V3.8).apk"
+    },
+    {
+      "nombre": "SportzX",
+      "version": "3.2",
+      "versionCode": 18,
+      "paquete": "com.sportzx.live",
+      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/sportzx-3.2/SportzX_3.2v.apk",
+      "archivo": "SportzX_3.2v.apk"
     }
   ]
 }
+Add GeeSports and SportzX
