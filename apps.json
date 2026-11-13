@@ -18,6 +18,14 @@
       "archivo": "Xuper_4.99.4.apk"
     },
     {
+      "nombre": "XUPER TV NF",
+      "version": "4.35.0",
+      "versionCode": 43500,
+      "paquete": "com.android.mgstxNF",
+      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/xuper-tv-nf-4.35.0/XN0F4C435.apk",
+      "archivo": "XN0F4C435.apk"
+    },
+    {
       "nombre": "YTP",
       "version": "1",
       "versionCode": 1,
