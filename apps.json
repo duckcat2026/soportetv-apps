@@ -1,12 +1,13 @@
+
 {
   "apps": [
     {
       "nombre": "XUPER",
-      "version": "4.99.3",
-      "versionCode": 49903,
-      "paquete": "com.google.android.youtube.tvpremium12",
-      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/v4.99.4/Xuper_4.99.4.apk",
-      "archivo": "Xuper_4.99.4.apk"
+      "version": "4.99.20",
+      "versionCode": 49920,
+      "paquete": "com.android.mgstv",
+      "url": "https://github.com/duckcat2026/soportetv-apps/releases/download/xuper-4.99.20/Xuper_4.99.20.apk",
+      "archivo": "Xuper_4.99.20.apk"
     },
     {
       "nombre": "YTP",
@@ -34,4 +35,3 @@
     }
   ]
 }
-Add GeeSports and SportzX
